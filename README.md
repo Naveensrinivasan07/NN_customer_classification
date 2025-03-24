@@ -103,13 +103,14 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 
 ### Classification Report
 
-![Screenshot 2025-03-24 091312](https://github.com/user-attachments/assets/ae095878-2052-4e43-87c5-a235eb367bce)
 
+![ஸ்கிரீன்ஷாட் 2025-03-24 110748](https://github.com/user-attachments/assets/a58aae9b-7e78-45cb-b6a0-92b495b62308)
 
 
 ### New Sample Data Prediction
 
-![Screenshot 2025-03-24 091424](https://github.com/user-attachments/assets/9f5debd2-7075-4174-92f7-fa94d60970a1)
+![ஸ்கிரீன்ஷாட் 2025-03-24 110911](https://github.com/user-attachments/assets/3bdfde93-b738-4665-8f1e-153709002ee9)
+
 
 
 
